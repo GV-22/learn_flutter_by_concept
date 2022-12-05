@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "705322082308",
+    "project_id": "learn-by-concept-d0cc3",
+    "storage_bucket": "learn-by-concept-d0cc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705322082308:android:0b64dee85698f9b2f59551",
+        "android_client_info": {
+          "package_name": "com.learnbyconcept"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705322082308-esge5toav4hkfbn27ulufi7s97aj92fk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.learnbyconcept",
+            "certificate_hash": "65a3ad4148c53b8079adda91c804e48b85019e85"
+          }
+        },
+        {
+          "client_id": "705322082308-0afoobkggnfgo43t5bcui9qtlhs7b3h3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGiYupltpCJkNhPR_Y0yCEzWH3lRd8yqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705322082308-0afoobkggnfgo43t5bcui9qtlhs7b3h3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
